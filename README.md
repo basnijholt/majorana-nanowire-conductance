@@ -1,4 +1,4 @@
-# majoran-nanowire-conductance
+# majorana-nanowire-conductance
 
 Code mostly taken from :page_with_curl: [Topology in Condensed Matter course](https://topocondmat.org)
 
